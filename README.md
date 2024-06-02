@@ -11,11 +11,11 @@ In this part, we got acquainted with the Flask environment and designed a site t
 <br>
 ## Branch <br>
 - **mainfolder/** 
-  - `app.py`: Description of file1.txt.
-  - `reqirements.txt`: Description of file2.txt.
+  - `app.py`
+  - `reqirements.txt`
   - **.github/**
     - **workflow/**
-       - `liara.yamel`: Description of file3.txt.
+       - `liara.yamel`
   - **static/**
       - **images/**
       - **CSS/**
