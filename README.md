@@ -9,10 +9,10 @@ In this part, we got acquainted with the Flask environment and designed a site t
 - [output](#contact-information)
 
 ##About
-In this part, we got acquainted with the Flask environment and designed a site that <be> uses Python for its backend and HTML and CSS for its front end.<be> Then we deployed it using Liara servers.
-<be>
-##Branch
-- **mainfolder/**
+In this part, we got acquainted with the Flask environment and designed a site that <br> uses Python for its backend and HTML and CSS for its front end.<br> Then we deployed it using Liara servers.
+<br>
+##Branch <br>
+- **mainfolder/** 
   - `fapp.py`: Description of file1.txt.
   - `reqirements.txt`: Description of file2.txt.
   - **.github/**
