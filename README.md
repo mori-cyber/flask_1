@@ -18,7 +18,7 @@ In this part, we got acquainted with the Flask environment and designed a site t
        - `liara.yamel`: Description of file3.txt.
   - **static/**
       - **images/**
-      - **CSS
+      - **CSS/**
       - **js/**
   ## githubpush
   ```
