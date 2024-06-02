@@ -5,3 +5,4 @@ In this part, we got acquainted with the Flask environment and designed a site t
   - **.github/**
     - **workflow/**
        - `liara.yamel`: Description of file3.txt.
+1. **Clone the Repository:**
