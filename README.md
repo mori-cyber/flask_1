@@ -1,4 +1,4 @@
-![5764242_microsoft_project_icon](https://github.com/mori-cyber/flask_1/assets/65276280/19357872-52c8-4cea-99b6-e3b87c62e865)
+![5764242_microsoft_project_icon](https://github.com/mori-cyber/flask_1/assets/65276280/19357872-52c8-4cea-99b6-e3b87c62e865)/50/50
 ## Table of Contents
 - [About](#About)
 - [Branch](#Branch)
@@ -35,9 +35,9 @@ In this part, we got acquainted with the Flask environment and designed a site t
   ```
   https://myweblog.liara.run/
   ```
+
   ![Uploading screencapture-myweblog-liara-run-2024-06-02-12_36_59.png…]()
 
-  
 
   
 
