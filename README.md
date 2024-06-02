@@ -7,3 +7,9 @@ In this part, we got acquainted with the Flask environment and designed a site t
        - `liara.yamel`: Description of file3.txt.
 1. **Clone the Repository:**
 ```bash
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact Information](#contact-information)
