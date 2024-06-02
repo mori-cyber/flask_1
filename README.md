@@ -34,9 +34,12 @@ In this part, we got acquainted with the Flask environment and designed a site t
   ## output
   ```
   https://myweblog.liara.run/
-  ```
 
-  ![Uploading screencapture-myweblog-liara-run-2024-06-02-12_36_59.png…]()
+  ```
+  
+
+  
+  
 
 
   
