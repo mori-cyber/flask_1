@@ -19,7 +19,13 @@ In this part, we got acquainted with the Flask environment and designed a site t
   - **static/**
       - **images/**
       - **CSS/**
+        -'styles.css' 
       - **js/**
+  - **template/**
+    - 'index.html'
+    - 'contact.html'
+    - 'research.html'
+    - 'course.html'
   ## githubpush
   ```
   1- git init
