@@ -43,9 +43,7 @@ In this part, we got acquainted with the Flask environment and designed a site t
 
   ```
   
-```
-klhkhjkh
-```
+
   
   
 
